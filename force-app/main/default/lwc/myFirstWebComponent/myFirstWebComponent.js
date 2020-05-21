@@ -22,5 +22,10 @@ export default class HelloIteration extends LightningElement {
             Name: 'Thanh Vu',
             Title: 'CEO',
         },
+        {
+            Id: 5,
+            Name: 'Aaron Vu',
+            Title: 'CEO Child',
+        },
     ];
 }
